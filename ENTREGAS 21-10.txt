@@ -1,0 +1,16 @@
+1) Verificar respostas da pesquisa e colocar os gráficos no template ES2N-AnexoPesquisa v1.0 (atividade não entregue em 14/10)
+
+2) Fazer nova versão da lista dos requisitos funcionais, rever os requisitos, a lista está extensa. Verificar se a partir das respostas do item 1 não existem requisitos que devem ser incluídos/alterados/excluídos. (atividade não entregue em 14/10)
+
+3) Fazer nova versão do Diagrama de Caso de Uso (alto nível), considerando todas as alterações realizadas no item 2. Deve ter o mesmo número de itens da lista de requisitos.
+
+4) Fazer nova versão da Descrição de Caso de Uso (baixo nível), considerando todas as alterações realizadas no item 2. Deve ter o mesmo número de itens da lista de requisitos.
+
+5) Fazer nova versão da lista de requisitos NÃO funcionais.
+
+6) Fazer a primeira versão do Diagrama de Classes.
+
+7) Acertar repositório GitHub, deixar somente a última versão de cada artefato.
+
+
+
