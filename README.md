@@ -96,6 +96,9 @@ npm start
 |------|----|--------|
 | **Hugo Meirelles** | 0030482323009 | hugo.silva36@fatec.sp.gov.br |
 | **Lucas Morais** | 0030482323029 | lucas.morais30@fatec.sp.gov.br |
+| **Murilo Litoldo** | 0030482323041 | murilo.carneiro2@fatec.sp.gov.br |
+| **Melissa Muniz** |	0030482323036 | mellissa.muniz@fatec.sp.gov.br |
+|	**Guilherme Medeiros** | 0030482313006 | guilherme.medeiros4@fatec.sp.gov.br |
 
 ---
 
