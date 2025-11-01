@@ -1,8 +1,0 @@
-Favor entregar as tarefas no prazo (até terça)
--->não adianta alterar a data dos commits - eu baixo sempre na terça
-
-alterar diagrama de classes
-fazer tela de cadastro de guilda
-
-
-
