@@ -1,8 +1,0 @@
-Entrega nova versão de todos os artefatos
-
-Lista dos requisitos NAO funcionais
-Lista dos requisitos funcionais
-Diagrama de Caso de Uso
-Descricao de Caso de Uso
-Diagrama de Classes
-protótipos de 2 telas - principal e 1 cadastro
